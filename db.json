@@ -1,0 +1,17 @@
+
+{
+  "user": [
+    {"id":1, "name":"Sergio Zamudio", "username":"zamu5", "email":"szamu5@hotmail.com", "image":"https://as.com/meristation/imagenes/2019/03/18/noticias/1552889337_702986_1552889388_noticia_normal.jpg"},
+    {"id":2, "name":"Luz Ariza", "username":"adru", "email":"a-d-r-u@hotmail.com", "image":"https://i.ibb.co/ZH73560/cody.jpg"},
+    {"id":3, "name":"prueba", "username":"prueba", "email":"1234@hotmail.com", "image":"https://i.ibb.co/ZH73560/cody.jpg"}
+  ],
+  "posts": [
+    {"id": 1, "title": "Post 1", "body":"no se que escribir1", "userId":1},
+    {"id": 2, "title": "Post 2", "body":"no se que escribir2", "userId":1},
+    {"id": 3, "title": "Post 3", "body":"no se que escribir3", "userId":2}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
